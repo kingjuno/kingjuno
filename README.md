@@ -8,7 +8,7 @@
 - 📫 How to reach me: oh! you will never ,sorry 😄.
 - 😄 Pronouns: Let me make one first ...
 - ⚡ Fun fact: I am funny hahaha....
--   I'm 
+-   I'm <img src="https://render.githubusercontent.com/render/math?math=\sum_{1}^{18}   1"> years old ...
 
 <br>
 <br>
@@ -19,6 +19,8 @@
 [<img align="left" alt="juno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="juno | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="juno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="juno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="juno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br>
 
@@ -47,3 +49,5 @@
 [twitter]: https://twitter.com
 [instagram]: https://instagram.com/geo__jolly
 [linkedin]: https://linkedin.com/in/king-juno
+[telegram]: https://t.me/king_juno
+[gmail]: mailto:junonium@gmail.com
