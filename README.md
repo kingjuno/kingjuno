@@ -45,7 +45,7 @@
 
 
 
-[website]: https://xorring.wordpress.com
+[website]: https://kingjuno.me
 [twitter]: https://twitter.com/king__juno
 [instagram]: https://instagram.com/geo__jolly
 [linkedin]: https://linkedin.com/in/king-juno
