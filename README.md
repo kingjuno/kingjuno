@@ -40,6 +40,11 @@
 <br>
 <br>
 
+## 📊 Github Stats
+
+<a href="https://github.com/kingjuno"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+
+
 ### Show some ❤️ by starring some of the repositories!
 
 
