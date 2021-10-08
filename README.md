@@ -47,6 +47,6 @@
 [website]: https://kingjuno.me
 [twitter]: https://twitter.com/king__juno
 [instagram]: https://instagram.com/geo__jolly
-[linkedin]: https://linkedin.com/in/king-juno
+[linkedin]: https://www.linkedin.com/in/geo-jolly/
 [telegram]: https://t.me/king_juno
-[gmail]: mailto:junonium@gmail.com
+[gmail]: mailto:geojollyc@gmail.com
