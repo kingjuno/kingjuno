@@ -2,10 +2,6 @@
 
 <code><img align ="right" height="250" src="https://github.com/kingjuno/kingjuno/blob/master/111868.jpg"></code>
 
-- :space_invader: I'm <img src="https://render.githubusercontent.com/render/math?math=\sum_{1}^{19}   1"> years old ...
-
-<br>
-<br>
 
 ### Connect with me:
 
