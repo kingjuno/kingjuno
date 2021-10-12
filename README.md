@@ -1,6 +1,6 @@
 # cout<<"I am juno";
 
-<code><img align ="right" height="250" src="https://github.com/kingjuno/kingjuno/blob/master/111868.jpg"></code>
+<img align ="right" height="250" src="https://github.com/kingjuno/kingjuno/blob/master/111868.jpg">
 
 
 ### Connect with me:
