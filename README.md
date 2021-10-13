@@ -49,7 +49,7 @@
 ## 📊 Github Stats
 <pre>
 <a href="https://github.com/kingjuno"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kingjuno&show_icons=true&locale=en&theme=algolia" alt="kingjuno" height="192px"/></a>
-
+</pre>
 
 ### Show some ❤️ by starring some of the repositories!
 
@@ -61,4 +61,4 @@
 [linkedin]: https://www.linkedin.com/in/geo-jolly/
 [telegram]: https://t.me/king_juno
 [gmail]: mailto:geojollyc@gmail.com
-</pre>
+
